@@ -1,0 +1,11 @@
+---
+applications:
+
+  - name: micrometer-test
+    path: target/micrometer-test-1.0-b1.jar
+#    services:
+#      - config-server
+#    env:
+#      SPRING_PROFILES_ACTIVE: dev
+#    health-check-type: http
+#    health-check-http-endpoint: /actuator/health
