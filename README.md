@@ -1,6 +1,9 @@
 ## From my talk  "Controlling your race with Micrometer, Spring Boot and Cloud Foundry"
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UNszkYpaMZc/0.jpg)](https://www.youtube.com/watch?v=UNszkYpaMZc)
 
+### Slides <br>
+[![IMAGE ALT TEXT HERE](https://image.slidesharecdn.com/controllingyourracewithmicrometer-200617203002/95/controlling-your-race-with-micrometer-spring-boot-and-cloud-foundry-1-638.jpg?cb=1592426045)](https://www.slideshare.net/KoTurk/controlling-your-race-with-micrometer-spring-boot-and-cloud-foundry)
+
 ### Micrometer
 In this repository you will find the micrometer demo I live coded.<br>
 Please run:
