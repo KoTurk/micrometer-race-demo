@@ -6,9 +6,13 @@
 
 ### Micrometer
 In this repository you will find the micrometer demo I live coded.<br>
-Please run:
+Please build:
 <pre><code>mvn clean install</code></pre>
-and deploy it to a platform like cloud foundry:
+
+And run Spring Boot with:
+<pre><code>mvn spring-boot:run</code></pre>
+
+If necessary, deploy it to a platform like cloud foundry:
 <pre><code>cf push -f manifest-devtest.yml</code></pre>
 
 
